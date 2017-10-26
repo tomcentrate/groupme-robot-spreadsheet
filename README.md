@@ -15,3 +15,12 @@ I only added a modification to the command to get this to work.
 Read the bot_instruction_readme.
 
 
+## Running the Bot
+
+After importing the new information, run the following:
+
+1. cd /path/to/project_dir
+1. npm install
+2. npm install -g forever
+3. forever start app.js
+
